@@ -25,13 +25,6 @@ Learning, and Generative AI.
 </p>
 <!--/Skills-->
 
-## Community Guidelines
-To ensure a positive and inclusive environment for all members, please adhere to the following guidelines:
-1. **Respect**: Treat all members with respect and courtesy. We celebrate diversity and value different perspectives.
-2. **Collaboration**: Embrace collaboration and constructive feedback. Together, we can learn and grow as a community.
-3. **Originality**: When sharing content or code, ensure that you have the necessary permissions and give proper attribution to original authors.
-4. **Inclusivity**: Avoid discrimination or harassment based on race, gender, religion, or any other personal attribute. Let's create a welcoming space for everyone.
-
 ## Let's Connect!
 Join our community today and embark on an exciting journey into the world of data. Together, we can unlock insights, drive innovation, and make an impact through the power of data!
 
