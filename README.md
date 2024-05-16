@@ -22,6 +22,7 @@ Learning, and Generative AI.
  <img alt="Machine Learning" src="https://img.shields.io/badge/-Machine%20Learning-F9A825?style=flat-square&logo=pytorch&logoColor=white" />
  <img alt="Deep Learning" src="https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
  <img alt="Data Analysis" src="https://img.shields.io/badge/-Data%20Analysis-339933?style=flat-square&logo=numpy&logoColor=white" />
+ <img alt="Generative AI" src="https://img.shields.io/badge/-Generative%20AI-FF69B4?style=flat-square&logo=openai&logoColor=white" />
 </p>
 <!--/Skills-->
 
