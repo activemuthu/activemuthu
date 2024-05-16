@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello, I'm Muthuraja! 👋
 
-<!--
-**activemuthu/activemuthu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate software Engineer with experience in Python Django. I love building innovative solutions and exploring new technologies.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- Django
+- JavaScript
+- Flask
+- MongoDB
+- SQL
+- Git
+- Machine learning
+- Deep learning
+- Data Analysis
